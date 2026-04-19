@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Forum.AppHost/Forum.AppHost.csproj" />
+  <Project Path="Forum.ServiceDefaults/Forum.ServiceDefaults.csproj" />
+  <Project Path="Forum/Forum.csproj" />
+</Solution>

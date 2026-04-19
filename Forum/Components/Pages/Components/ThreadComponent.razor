@@ -1,0 +1,11 @@
+@using Forum.Components.Models
+
+
+<ThreadHeader />
+<ThreadBody Content />
+<ThreadFooter />
+
+
+@code {
+    [Parameter][EditorRequired] public ThreadModel Thread { get; set; }
+}
